@@ -11,3 +11,10 @@ var animal {
   type: "Poison Dart",
   location: ["South America", "Central America"]
 }
+
+var customer = {
+  gender: "Male",
+  hasCash = true,
+  price = 4.50,
+  orderIncludes = ["Toothbrush", "Shoes", "Belt"]
+}
